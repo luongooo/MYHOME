@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+session
+application/templates_c
+.idea/
+*.log
+application/logs/
+composer.lock
+CI_phpstorm.php
+DB_active_rec.php
+my_models.php
